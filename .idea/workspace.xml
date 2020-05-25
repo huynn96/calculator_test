@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f22072e-f15c-485e-8d77-6c4e7946bdf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cM5iUVXNN0QoHQYPF77Ip9d24m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Huy\IdeaProjects\calculator_test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.RunCucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunCucumberTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f22072e-f15c-485e-8d77-6c4e7946bdf1" name="Default Changelist" comment="" />
+      <created>1590325748145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590325748145</updated>
+      <workItem from="1590325751665" duration="350000" />
+      <workItem from="1590326346444" duration="7295000" />
+      <workItem from="1590335195640" duration="65000" />
+      <workItem from="1590335960786" duration="3885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="65" key="#xdebugger.evaluate" timestamp="1590330611199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="65" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1590330611199" />
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1590333726266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590333726266" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1590333726266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590333726266" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1590333726267">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590333726267" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1590326365103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1590326365103" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1590326360556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1590326360556" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/calculator/StepDefinitions.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
